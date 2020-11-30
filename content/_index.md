@@ -3,7 +3,7 @@ title : "THesis Git"
 description : "Thesis FIgs Presentation"
 outputs : 
 - Reveal
-reveal_hugo: 
+reveal_hugo:
   transition: convex
 
 ---
