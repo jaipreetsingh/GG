@@ -46,11 +46,11 @@ outputs :
 
 ---
 
-<img src="/./_index_files/B4B9mRNAplotD13_1.png" alt="" width="70%" height="70%"/>
+<img src="/./_index_files/B4B9mRNAplotD13_1.png" alt="" width="65%" height="65%"/>
 
 ---
 
-<img src="/./_index_files/B4B9mRNAplotD13_2.png" alt="" width="70%" height="70%"/>
+<img src="/./_index_files/B4B9mRNAplotD13_2.png" alt="" width="65%" height="65%"/>
 
 
 
