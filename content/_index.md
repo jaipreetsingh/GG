@@ -6,6 +6,10 @@ outputs :
 
 ---
 
+# Thesis Figures
+
+---
+
 {{% section %}}
 ## B4 Time Course
 
