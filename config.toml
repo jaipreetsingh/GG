@@ -8,8 +8,9 @@ theme = "reveal-hugo"
 # relativeURLs = true
 # uglyURLs = true
 
+
 [author]
-name = "Josh Dzielak"
+name = "Jaipreet Singh Loomba"
 
 # currently only the unsafe mode for goldmark is supported
 [markup.goldmark.renderer]

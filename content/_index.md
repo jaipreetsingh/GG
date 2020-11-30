@@ -5,6 +5,7 @@ outputs :
 - Reveal
 reveal_hugo:
   transition: convex
+  theme: sky
 
 ---
 
