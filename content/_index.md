@@ -49,7 +49,7 @@ reveal_hugo:
 
 ---
 
-> <img src="/./_index_files/B4B9mRNAplotD13_1.png" alt="" width="100%" height="100%"/>
+<img src="/./_index_files/B4B9mRNAplotD13_1.png" alt="" width="100%" height="100%"/>
 
 ---
 
