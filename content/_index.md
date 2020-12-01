@@ -5,7 +5,7 @@ outputs :
 - Reveal
 reveal_hugo:
   transition: convex
-  theme: sky
+  theme: league
 
 ---
 
@@ -14,8 +14,9 @@ reveal_hugo:
 ---
 
 {{% section %}}
-## B4 Time Course
+## hGb3SHA OE Clone B4 Day Course Differentiation
 
+- *mouse* E14 Embryonic stem cells over-expressing *human* Gb3S tagged with HA were differentiated to neuronal cell fate.
 ---
 
 ![](/./_index_files/b4daycourse.png)
@@ -54,6 +55,14 @@ reveal_hugo:
 ---
 
 <img src="/./_index_files/B4B9mRNAplotD13_2.png" alt="" width="65%" height="65%"/>
+
+---
+
+<p class="fragment">Fade in</p>
+<p class="fragment fade-out">Fade out</p>
+<p class="fragment highlight-red">Highlight red</p>
+<p class="fragment fade-in-then-out">Fade in, then out</p>
+<p class="fragment fade-up">Slide up while fading in</p>
 
 
 
