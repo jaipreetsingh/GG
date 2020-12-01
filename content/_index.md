@@ -47,7 +47,10 @@ reveal_hugo:
 
 ---
 
-## Day13/Day0 plots
+<h6 class="fragment fade-out">Day13/Day0 plots</h6>
+<tr>
+<td><span style="font-size: 100px;">&darr;</span></td>
+</tr>
 
 ---
 
@@ -59,11 +62,7 @@ reveal_hugo:
 
 ---
 
-<p class="fragment">Fade in</p>
-<p class="fragment fade-out">Fade out</p>
-<p class="fragment highlight-red">Highlight red</p>
-<p class="fragment fade-in-then-out">Fade in, then out</p>
-<p class="fragment fade-up">Slide up while fading in</p>
+
 
 
 
