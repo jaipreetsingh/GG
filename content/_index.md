@@ -17,6 +17,7 @@ reveal_hugo:
 ## hGb3SHA OE Clone B4 Day Course Differentiation
 
 - *mouse* E14 Embryonic stem cells over-expressing *human* Gb3S tagged with HA were differentiated to neuronal cell fate.
+
 ---
 
 ![](/./_index_files/b4daycourse.png)
