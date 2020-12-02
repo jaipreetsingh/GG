@@ -6,7 +6,6 @@ outputs :
 reveal_hugo:
   transition: convex
   theme: league
-
 ---
 
 # Thesis Figures
@@ -47,7 +46,9 @@ reveal_hugo:
 
 ---
 
-<h6 class="fragment fade-out">Day13/Day0 plots</h6>
+<p class="fragment fade-in-then-out highlight-green">Day13/Day0 plots</p>
+<p class="fragment fade-in-then-out">Fade in, then out</p>
+<p class="fragment fade-in-then-out">Fade in, then out</p>
 <tr>
 <td><span style="font-size: 100px;">&darr;</span></td>
 </tr>
@@ -60,7 +61,6 @@ reveal_hugo:
 
 <img src="/./_index_files/B4B9mRNAplotD13_2.png" alt="" width="65%" height="65%"/>
 
----
 
 
 
