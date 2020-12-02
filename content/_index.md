@@ -40,7 +40,7 @@ reveal_hugo:
 
 ---
 
-![](/./_index_files/B4B9mRNAplot1.png)
+<img src="/./_index_files/B4B9mRNAplot2.png" alt="" width="65%" height="65%"/>
 
 ---
 
