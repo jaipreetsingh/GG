@@ -19,6 +19,10 @@ reveal_hugo:
 
 ---
 
+<img src="/./_index_files/ALLB4ESandDay13.png" alt="" width="65%" height="65%"/>
+
+---
+
 <img src="/./_index_files/b4daycourse.png" alt="" height="65%" width="65%">
 
 ---
@@ -38,19 +42,7 @@ reveal_hugo:
 
 ---
 
-![](/./_index_files/B4B9mRNAplot.png)
-
----
-
 ![](/./_index_files/B4B9mRNAplot1.png)
-
----
-
-
-
----
-
-<img src="/./_index_files/B4B9mRNAplotD13_1.png" alt="" width="65%" height="65%"/>
 
 ---
 
