@@ -19,7 +19,7 @@ reveal_hugo:
 
 ---
 
-![](/./_index_files/b4daycourse.png)
+<img src="/./_index_files/b4daycourse.png" alt="" height="65%" width="65%">
 
 ---
 
