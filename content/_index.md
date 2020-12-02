@@ -23,7 +23,7 @@ reveal_hugo:
 
 ---
 
-![](/./_index_files/b4daycourse1.png)
+<img src="/./_index_files/b4daycorsemRNA.png" alt="" width="65%" height="65%"/>
 
 {{% /section %}}
 
