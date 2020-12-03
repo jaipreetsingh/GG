@@ -52,11 +52,7 @@ reveal_hugo:
 
 ---
 
-<<<<<<< HEAD
 # hGM3SHA OE Clone B9 Neuronal Differentiation
-=======
-# hGM3SHA OE Clone B4 Neuronal Differentiation
->>>>>>> 6e382d6f0f85510d0cbc96004ccc4562de4ad4d5
 
 ---
 
