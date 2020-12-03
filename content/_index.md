@@ -48,7 +48,9 @@ reveal_hugo:
 {{% section%}}
 # B4-B9 Differentiation mRNA plots 
 
-## Day0 and Day 13
+---
+
+<img src="/./_index_files/B4B9mRNAplot2 2.png" alt="" width="65%" height="65%"/>
 
 ---
 
