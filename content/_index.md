@@ -45,6 +45,31 @@ reveal_hugo:
 
 ---
 
+{{% section %}}
+## hGM3SHA OE Clones Neuronal Differentiation
+
+> *mouse* E14 Embryonic stem cells over-expressing *human* GM3S tagged with HA were differentiated to neuronal cell fate.
+
+---
+
+# hGM3SHA OE Clone B4 Neuronal Differentiation
+
+---
+
+<img src="/./_index_files/ALLB9ESandDay13.png" alt="" width="65%" height="65%"/>
+
+---
+
+<img src="/./_index_files/b9daycourse.png" alt="" width="65%" height="65%"/>
+
+---
+
+<img src="/./_index_files/b9daycorsemRNA.png" alt="" width="65%" height="65%"/>
+
+{{% /section %}}
+
+---
+
 {{% section%}}
 # B4-B9 Differentiation mRNA plots 
 
