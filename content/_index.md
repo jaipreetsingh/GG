@@ -58,7 +58,24 @@ reveal_hugo:
 
 <img src="/./_index_files/B4B9mRNAplotD13_2.png" alt="" width="65%" height="65%"/>
 
+{{% /section %}}
 
+---
+
+{{% section %}}
+# B4-B9 Drug Screen
+
+---
+
+<img src="/./_index_files/B4alldrugsES&13plot.png" alt="" width="65%" height="65%"/>
+
+---
+
+<img src="/./_index_files/B4BAFALLN.png" alt="" width="65%" height="65%"/>
+
+---
+
+<img src="/./_index_files/B9alldrugsplot.png" alt="" width="65%" height="65%"/>
 
 
 
