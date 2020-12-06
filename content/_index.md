@@ -19,7 +19,7 @@ reveal_hugo:
 
 ---
 
-<img src="/./_index_files/Gb3SHA19clonesmRNA.png" alt="" width="65%" height="65%"/>
+<img src="/./_index_files/Gb3SHA19clonesmRNAPND.png" alt="" width="65%" height="65%"/>
 
 ---
 
