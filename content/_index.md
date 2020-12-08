@@ -52,6 +52,10 @@ reveal_hugo:
 
 ---
 
+<img src="/./_index_files/GM3SHAallclonesmRNA.png" alt="" width="65%" height="65%"/>
+
+---
+
 # hGM3SHA OE Clone B9 Neuronal Differentiation
 
 ---
