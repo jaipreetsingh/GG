@@ -83,14 +83,6 @@ reveal_hugo:
 
 ---
 
-<img src="/./_index_files/B4B9mRNAplot2 2.png" alt="" width="65%" height="65%"/>
-
----
-
-<img src="/./_index_files/B4B9mRNAplot2.png" alt="" width="65%" height="65%"/>
-
----
-
 <img src="/./_index_files/B4B9mRNAplotD13_2.png" alt="" width="65%" height="65%"/>
 
 {{% /section %}}
