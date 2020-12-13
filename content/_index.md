@@ -92,7 +92,6 @@ reveal_hugo:
 {{% section %}}
 # B4-B9 Drug Screen
 
-
 ---
 
 <img src="/./_index_files/B4BAFALLN.png" alt="" width="65%" height="65%"/>
